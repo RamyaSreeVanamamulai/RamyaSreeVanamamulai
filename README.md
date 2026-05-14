@@ -12,7 +12,7 @@
 
 ## 👩‍💻 Introduction
 
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="280" alt="Girl coding with laptop"/>
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" align="right" width="300" alt="Girl coding with laptop"/>
 
 💡 **Tech Explorer at Heart:** Passionate about discovering how intelligent systems learn, evolve, and solve real-world problems.  
 
@@ -70,9 +70,9 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamyaSreeVanamamualai&show_icons=true&theme=merko&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamyaSreeVanamamualai&layout=compact&theme=merko&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamyaSreeVanamamulai&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamyaSreeVanamamulai&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -80,7 +80,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamyaSreeVanamamualai&theme=merko&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamyaSreeVanamamulai&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -105,7 +105,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-00A86B?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/RamyaSreeVanamamualai">
+<a href="https://github.com/RamyaSreeVanamamulai">
   <img src="https://img.shields.io/badge/GitHub-1B5E20?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
