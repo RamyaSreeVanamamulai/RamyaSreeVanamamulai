@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:1B5E20&height=250&section=header&text=Ramya%20Sree%20Vanamamulai&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Enthusiast%20|%20Software%20Engineer%20|%20Full-Stack%20Developer&descAlignY=58&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:1B5E20&height=260&section=header&text=Ramya%20Sree%20Vanamamulai&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Enthusiast%20|%20Software%20Engineer%20|%20Full-Stack%20Developer&descAlignY=58&descSize=20" />
 </p>
 
 <!-- Typing Animation -->
@@ -12,7 +12,7 @@
 
 ## 👩‍💻 Introduction
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" align="right" width="300" alt="Girl coding with laptop"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="right" width="320" alt="Girl coding"/>
 
 💡 **Tech Explorer at Heart:** Passionate about discovering how intelligent systems learn, evolve, and solve real-world problems.  
 
