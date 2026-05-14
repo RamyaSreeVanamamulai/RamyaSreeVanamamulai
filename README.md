@@ -98,7 +98,7 @@
   <img src="https://img.shields.io/badge/Gmail-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/vanamamulai-ramyasree/">
   <img src="https://img.shields.io/badge/LinkedIn-00A86B?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
