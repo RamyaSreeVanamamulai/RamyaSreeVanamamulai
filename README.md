@@ -67,20 +67,17 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamyaSreeVanamamulai&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamyaSreeVanamamulai&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamyaSreeVanamamulai&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+# 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,react,nextjs,fastapi,nodejs,html,css,mysql,postgres,docker,git,linux,vscode,pytorch,tensorflow&perline=10" />
 </p>
 
 ---
